@@ -1,0 +1,4 @@
+.env
+butler.env
+*.db
+__pycache__/
